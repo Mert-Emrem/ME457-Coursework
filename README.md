@@ -1,2 +1,2 @@
-# ME475-Coursework
+# ME475 Coursework
 Biomechanics Technical Elective
